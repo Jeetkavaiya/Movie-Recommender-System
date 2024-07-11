@@ -81,7 +81,7 @@ The Movie Recommender System uses the following approaches to recommend movies:
 Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request. Please ensure your changes are well-documented and tested.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+[MIT License](LICENSE)
 
 ## Acknowledgements
 
