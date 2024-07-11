@@ -9,6 +9,7 @@ Welcome to the Movie Recommender System project! This project utilizes the TMDB 
 - [Usage](#usage)
 - [Model Description](#model-description)
 - [Contributing](#contributing)
+- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -78,6 +79,9 @@ The Movie Recommender System uses the following approaches to recommend movies:
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request. Please ensure your changes are well-documented and tested.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 ## Acknowledgements
 
